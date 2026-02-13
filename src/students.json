@@ -420,6 +420,15 @@
             "email": "zulbadamz@gmail.com",
             "github": "https://github.com/Zulbadamz",
             "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
+        },
+        { 
+            "name": "David Davis", 
+            "photo": "David-Davis.webp",
+            "role": "Developer",
+            "about": "BAS-AD student focused on design, prototyping, and technical development. Passionate about building intuitive, user-centered experiences.",
+            "email": "barrcardavis@gmail.com",
+            "github": "https://github.com/Barrcardavis",
+            "linkedin": "https://www.linkedin.com/in/david-davis-010000194"
         }
     ]
 }
